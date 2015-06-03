@@ -4,7 +4,7 @@
 	<section>
 	  <div id="wrapper">
 	 
-	 <div id="canvasDiv"></div>
+	    <div id="canvasDiv"></div>
     <script type="text/javascript"> $(document).ready(function() {
     	 prepareCanvas();
 });</script>

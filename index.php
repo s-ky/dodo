@@ -3,13 +3,18 @@
 <?php include('includes/header.php') ?>
 	<section>
 	  <div id="wrapper">
+		
 		<div class="section page">
+		
+		<?php include('includes/slideshow/slideshow.html')?>
+		
 		<h3>Top News</h3>
 				<ul>
 					<li>
 						<h4>Just gotten started.</h4>
 					</li>							
 				</ul>
+		
 		<h3>Latest Products</h3>
 			
 		<div class="section shirts page">

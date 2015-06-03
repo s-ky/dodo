@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title><?php echo $pageTitle;?></title>
-    <link rel="stylesheet" href="includes/css/normalize.css">
     <link href='http://fonts.googleapis.com/css?family=Changa+One|Open+Sans:400italic,700italic,400,700,800' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="includes/css/main.css">
      <link rel="stylesheet" href="includes/css/style.css">
@@ -12,16 +11,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	
-	    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
     <!--[if IE]><script type="text/javascript" src="excanvas.js"></script><![endif]-->
-    <script type="text/javascript" src="html5-canvas-drawing-app.js"></script>
+    <script type="text/javascript" src="includes/canvas/html5-canvas-drawing-app.js"></script>
 
   </head>
   <body>
     <header>
       <a href="index.php" id="logo">
 		
-        <h1><img src="includes/img/logo.jpg">Dodo 手作</h1>
+        <h1><img height= "25" width= "25" src="includes/img/logo.jpg"> Dodo 手作</h1>
         <h2>陶瓷專賣店</h2>
        
       </a>

@@ -1,4 +1,4 @@
-<?php $pageTitle= "Global Partners";?>
+<?php $pageTitle= "Dodo手作｜DIY";?>
 <?php $page= diy;?>
 <?php include('includes/header.php') ?>
 	<section>

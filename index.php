@@ -6,7 +6,7 @@
 		
 		<div class="section page">
 		
-		<?php include('includes/slideshow/slideshow.html')?>
+		<?php include('includes/slideshow/slideshow.html')?><br><br><br><br><br><br><br><br>
 		
 		<h3>Top News</h3>
 				<ul>
@@ -39,6 +39,7 @@
 				</ul>
 			</div>
 		</div>
+		
 		<h3>DIY Products</h3>
 				
 		<div class="section shirts page">

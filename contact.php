@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
 	  <?php } else {?>
     
 		<div class="wrapper">
-	    <p>我們很想聽您的意見！</p>
+	    <p>請留下您的寶貴意見！</p>
         <form method="post" action="contact.php">
         	<table>
         		<tr>

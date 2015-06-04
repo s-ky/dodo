@@ -9,7 +9,8 @@
         
      </section>
      <section id="secondary">
-  	   地址: 
+  	   地址: 台北台灣
+  	   <div id="googleMap" style="width:500px;height:380px;"></div>
       </section>
 	 </div>
 <?php include('includes/footer.php') ?>
